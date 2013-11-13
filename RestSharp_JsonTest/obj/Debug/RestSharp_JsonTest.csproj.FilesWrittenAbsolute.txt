@@ -1,0 +1,11 @@
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/bin/Debug/RestSharp_JsonTest.dll.mdb
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/bin/Debug/RestSharp_JsonTest.dll
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/obj/Debug/RestSharp_JsonTest.dll
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/obj/Debug/RestSharp_JsonTest.dll.mdb
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/bin/Debug/RestSharp.dll
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/bin/Debug/RestSharp_JsonTest.exe.mdb
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/bin/Debug/RestSharp_JsonTest.exe
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/obj/Debug/RestSharp_JsonTest.exe
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/obj/Debug/RestSharp_JsonTest.exe.mdb
+/Volumes/Spinner/Users/jsumners/Programming Projects/DotNet/RestSharp_JsonTest/RestSharp_JsonTest/bin/Debug/Newtonsoft.Json.dll
